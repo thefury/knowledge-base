@@ -1,2 +1,6 @@
 /public/*
 !/public/.gitkeep
+
+# editor cruft
+*~
+*#
